@@ -7,7 +7,7 @@
 ### Using Truffle framework, deploy your smart contract with the Rinkeby test network. 
 
 * tx hash: 0x58b7c19b2315c84d444da73a0ab4f4bba13b3d9066d5a316dd2dca7d91d27ac7
-* address: 0x7698B90080804c8cd375bE366E901F2728a8B92B.
+* contract address: 0x7698B90080804c8cd375bE366E901F2728a8B92B.
 
 ### Execute createStar() function and take note of transaction hash & tokenId
 
