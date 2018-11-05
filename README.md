@@ -1,7 +1,7 @@
 ## Project Dependency
-** openzeppelin
-** metamask (For the web front end)
-** http-server (For running the web front end locally)
+* openzeppelin
+* metamask (For the web front end)
+* http-server (For running the web front end locally)
 
 ## Deploy smart contract on a public test network (Rinkeby)
 ### Using Truffle framework, deploy your smart contract with the Rinkeby test network. 
@@ -29,3 +29,6 @@ Enter the star name, coordinate and story in the corresponding input box and the
 Enter the token id in the tokenId input box and click "CheckStar". The star info will be populated in the corresponding input box. In addition to star name, coordinate and story, the owner of the star and the price of the star (0 indicate not for sale) are also shown.
 
 
+### Missing Truffle.js
+
+Truffle.js is ommitted intentionally to hide the mnemonic for my wallet.
