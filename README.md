@@ -29,6 +29,6 @@ Enter the star name, coordinate and story in the corresponding input box and the
 Enter the token id in the tokenId input box and click "CheckStar". The star info will be populated in the corresponding input box. In addition to star name, coordinate and story, the owner of the star and the price of the star (0 indicate not for sale) are also shown.
 
 
-### Missing Truffle.js
+## Missing Truffle.js
 
 Truffle.js is ommitted intentionally to hide the mnemonic for my wallet.
